@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'Macos';
+    src: url(../fonts/Menlo-Regular.woff);
+}
+.withButon{
+    width: 100%;
+}
+.terminal-output {
+    font-family: monospace;
+    color: white;
+    font-family: "Macos", sans-serif;
+
+}
+
+.input-line {
+    color: #00ff00; /* Yeşil renk */
+    font-weight: bold;
+    font-family: "Macos", sans-serif;
+
+}
+p{
+    font-family: "Macos", sans-serif;
+}
+input {
+    font-family: "Macos", sans-serif;
+    width: 100%; /* Input'un kartın genişliğine yayılması için */
+    box-sizing: border-box; /* Padding ve border'ı genişlikte dahil etmek için */
+    background-color: #2c2c2c; /* Input arka planı */
+    border: none; /* Border rengi */
+    color: white; /* Input metni beyaz */
+    border-radius: 5px; /* Köşe yuvarlatma */
+    font-size: 1em; /* Adjust font size as needed */
+    font-weight: bold; /* Make the text bold */
+    caret-color: #27c840; /* Change the caret (cursor) color to green */
+    caret-shape: block; /* Make the cursor block-shaped, like in a terminal */
+}
+
+input:focus {
+    outline: none;
+    border: none;
+}
+
+
+/* Input'a tıklandığında oluşan odak (focus) stilini kaldırma */
+input:focus {
+    outline: none; /* Odak durumundaki kenarlık çizgisini kaldırır */
+    border: none; /* Border'ı değiştirmenize gerek yoksa aynı bırakın */
+}
+
+.card{
+    /* background-color: #e3f2fd ; */
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    max-width: 700px;
+    width: 100%;
+    background-color: #3a3b3d;
+    border-radius: 15px;
+    box-shadow: 0 15px 25px rgba(0,0,0,0.5);
+}
+.name{
+    font-family: 'Macos', sans;
+    color: #a3a2a7;
+    display: flex;
+    justify-content: center;
+}
+.cardOne{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #1e1e1e;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 15px 25px rgba(0,0,0,0.1);
+}
+.navbar{
+    display: inline-flex;
+    align-items: flex-start;
+    float: left;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.red{
+    margin-right: 5px;
+    background-color: #fe5c5a;
+    border: none;
+    border-radius: 100%;
+    padding: 5px;
+}
+.yellow{
+    margin-right: 5px;
+    background-color: #f6b938;
+    border: none;
+    border-radius: 100%;
+    padding: 5px;
+}
+.green{
+    background-color: #27c840;
+    border: none;
+    border-radius: 100%;
+    padding: 5px;
+}
+.out{
+    color: green;
+}
+
+.clickOne{
+    width: 100%;
+    background: none;
+    border: none;
+    margin: 0;
+    /* padding: 16px; */
+    /* cursor: pointer; */
+    color:#27c840;
+    box-sizing: border-box;
+}
+p{
+    color: white;
+}
+.fullCard {
+    max-height: 400px; /* Terminalin yüksekliği sabit */
+    overflow-y: auto; /* İçerik fazla olursa kaydırma çubuğu gelsin */
+    width: 100%;
+    border-radius: 10px;
+    background-color: #1e1e1e;
+}
+
+/* Kaydırma çubuğu stilini özelleştirelim */
+.fullCard::-webkit-scrollbar {
+    width: 8px;
+}
+
+.fullCard::-webkit-scrollbar-track {
+    background: #282828;
+    border-radius: 10px;
+}
+
+.fullCard::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 10px;
+}
+
+.terminal-output {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: white;
+    font-family: 'Macos', sans-serif;
+}

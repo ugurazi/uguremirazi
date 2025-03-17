@@ -1,0 +1,46 @@
+.cardSocials{
+    /* background-color: #e3f2fd; */
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* CSS for the popup message */
+.notification {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    position: fixed; /* fixed to ensure it shows up in any part of the page */
+    top: 10px;       /* Position from top */
+    right: 10px;     /* Position from the right */
+    font-size: 14px;
+    z-index: 1000;   /* Make sure it stays on top */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* optional, for some visual depth */
+  }
+  
+  .iconButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cardSocials {
+    position: relative; /* Ensure that notification is correctly aligned in the container */
+  }
+  .icon{
+    font-size: 40px;
+    margin: 10px;
+  }
+  a {
+    color: white; /* Normal link rengi */
+    text-decoration: none; /* Alt çizgiyi kaldırmak için */
+  }
+  
+  a:visited {
+    color: white; /* Tıklandıktan sonra da beyaz kalmasını sağlar */
+  }
+  .iconButton{
+    color: white; /* Normal link rengi */
+    text-decoration: none; /* Alt çizgiyi kaldırmak için */
+  }  
