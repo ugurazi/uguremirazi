@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-uea/static/css/main.567b3cab.css",
+    "main.css": "/portfolio-uea/static/css/main.403765fa.css",
     "main.js": "/portfolio-uea/static/js/main.182e5843.js",
     "static/media/background-xp.jpg": "/portfolio-uea/static/media/background-xp.1cc46ab4297ac998e2b1.jpg",
     "static/media/burger-yiyelim.png": "/portfolio-uea/static/media/burger-yiyelim.a03772daddf8ddb88043.png",
@@ -11,11 +11,11 @@
     "static/media/jira-app.png": "/portfolio-uea/static/media/jira-app.fc628c1312ddc49434c4.png",
     "static/media/Data_analysis_hero.jpg": "/portfolio-uea/static/media/Data_analysis_hero.c86a46d45acb32c543cf.jpg",
     "index.html": "/portfolio-uea/index.html",
-    "main.567b3cab.css.map": "/portfolio-uea/static/css/main.567b3cab.css.map",
+    "main.403765fa.css.map": "/portfolio-uea/static/css/main.403765fa.css.map",
     "main.182e5843.js.map": "/portfolio-uea/static/js/main.182e5843.js.map"
   },
   "entrypoints": [
-    "static/css/main.567b3cab.css",
+    "static/css/main.403765fa.css",
     "static/js/main.182e5843.js"
   ]
 }
