@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-uea/static/css/main.567b3cab.css",
-    "main.js": "/portfolio-uea/static/js/main.182e5843.js",
-    "static/media/background-xp.jpg": "/portfolio-uea/static/media/background-xp.1cc46ab4297ac998e2b1.jpg",
-    "static/media/burger-yiyelim.png": "/portfolio-uea/static/media/burger-yiyelim.a03772daddf8ddb88043.png",
-    "static/media/starbucks-clone.png": "/portfolio-uea/static/media/starbucks-clone.627382b0a0cf77477fd9.png",
-    "static/media/youarehere.jpg": "/portfolio-uea/static/media/youarehere.7ff1f75c0870e4c541a2.jpg",
-    "static/media/Blog-Python-Uses.jpg": "/portfolio-uea/static/media/Blog-Python-Uses.f4d6d42500427f4d90e6.jpg",
-    "static/media/Menlo-Regular.woff": "/portfolio-uea/static/media/Menlo-Regular.02bb017483128058c0d0.woff",
-    "static/media/jira-app.png": "/portfolio-uea/static/media/jira-app.fc628c1312ddc49434c4.png",
-    "static/media/Data_analysis_hero.jpg": "/portfolio-uea/static/media/Data_analysis_hero.c86a46d45acb32c543cf.jpg",
-    "index.html": "/portfolio-uea/index.html",
-    "main.567b3cab.css.map": "/portfolio-uea/static/css/main.567b3cab.css.map",
-    "main.182e5843.js.map": "/portfolio-uea/static/js/main.182e5843.js.map"
+    "main.css": "/uguremirazi/static/css/main.e1609273.css",
+    "main.js": "/uguremirazi/static/js/main.23de3fba.js",
+    "static/media/background-xp.jpg": "/uguremirazi/static/media/background-xp.1cc46ab4297ac998e2b1.jpg",
+    "static/media/burger-yiyelim.png": "/uguremirazi/static/media/burger-yiyelim.a03772daddf8ddb88043.png",
+    "static/media/starbucks-clone.png": "/uguremirazi/static/media/starbucks-clone.627382b0a0cf77477fd9.png",
+    "static/media/youarehere.jpg": "/uguremirazi/static/media/youarehere.7ff1f75c0870e4c541a2.jpg",
+    "static/media/Blog-Python-Uses.jpg": "/uguremirazi/static/media/Blog-Python-Uses.f4d6d42500427f4d90e6.jpg",
+    "static/media/Menlo-Regular.woff": "/uguremirazi/static/media/Menlo-Regular.02bb017483128058c0d0.woff",
+    "static/media/jira-app.png": "/uguremirazi/static/media/jira-app.fc628c1312ddc49434c4.png",
+    "static/media/Data_analysis_hero.jpg": "/uguremirazi/static/media/Data_analysis_hero.c86a46d45acb32c543cf.jpg",
+    "index.html": "/uguremirazi/index.html",
+    "main.e1609273.css.map": "/uguremirazi/static/css/main.e1609273.css.map",
+    "main.23de3fba.js.map": "/uguremirazi/static/js/main.23de3fba.js.map"
   },
   "entrypoints": [
-    "static/css/main.567b3cab.css",
-    "static/js/main.182e5843.js"
+    "static/css/main.e1609273.css",
+    "static/js/main.23de3fba.js"
   ]
 }
