@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uguremirazi/static/css/main.e1609273.css",
+    "main.css": "/uguremirazi/static/css/main.46b3e26f.css",
     "main.js": "/uguremirazi/static/js/main.23de3fba.js",
     "static/media/background-xp.jpg": "/uguremirazi/static/media/background-xp.1cc46ab4297ac998e2b1.jpg",
     "static/media/burger-yiyelim.png": "/uguremirazi/static/media/burger-yiyelim.a03772daddf8ddb88043.png",
@@ -11,11 +11,11 @@
     "static/media/jira-app.png": "/uguremirazi/static/media/jira-app.fc628c1312ddc49434c4.png",
     "static/media/Data_analysis_hero.jpg": "/uguremirazi/static/media/Data_analysis_hero.c86a46d45acb32c543cf.jpg",
     "index.html": "/uguremirazi/index.html",
-    "main.e1609273.css.map": "/uguremirazi/static/css/main.e1609273.css.map",
+    "main.46b3e26f.css.map": "/uguremirazi/static/css/main.46b3e26f.css.map",
     "main.23de3fba.js.map": "/uguremirazi/static/js/main.23de3fba.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1609273.css",
+    "static/css/main.46b3e26f.css",
     "static/js/main.23de3fba.js"
   ]
 }
